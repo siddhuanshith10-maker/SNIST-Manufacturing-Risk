@@ -1,0 +1,7 @@
+category,total_minutes,cumulative_pct
+downtime_category_mechanical,91668.1,49.483000695810084
+downtime_category_electrical,35032.7,68.39386629110557
+downtime_category_tooling,23179.5,80.9063020744209
+downtime_category_quality_hold,14965.900000000001,88.98498637259469
+downtime_category_material,13654.2,96.35560699308023
+downtime_category_operator,6751.3,100.0
